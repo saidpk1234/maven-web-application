@@ -118,8 +118,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.3</version>
 				<configuration>
-					<source>${jdk.version}</source>
-					<target>${jdk.version}</target>
+					<source>11.0.18</source>
+					<target>11.0.18</target>
 				</configuration>
 			</plugin>
 
